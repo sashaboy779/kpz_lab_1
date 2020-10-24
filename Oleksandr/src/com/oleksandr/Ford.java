@@ -1,7 +1,7 @@
 package com.oleksandr;
 
 /**
- * Ford implementation.
+ * Ford car implementation.
  */
 public class Ford implements Car {
 
