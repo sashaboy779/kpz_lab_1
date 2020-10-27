@@ -1,5 +1,6 @@
 package com.anita;
 
+//this is my wizard class
 public class Wizard {
 
     private final String name;
