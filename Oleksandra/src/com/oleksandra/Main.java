@@ -2,6 +2,7 @@ package com.oleksandra;
 import java.util.logging.Logger;
 
 public class Main {
+//it's game program
     private static long GAME_LOOP_DURATION_TIME;
     private static Logger LOGGER;
 
